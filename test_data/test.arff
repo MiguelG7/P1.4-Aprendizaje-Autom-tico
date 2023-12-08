@@ -1,0 +1,22 @@
+%
+@RELATION Test
+
+@attribute Gender {Male,Female}
+@attribute Age numeric
+@attribute Occupation {'Software Engineer',Doctor,'Sales Representative',Teacher,Nurse,Engineer,Accountant,Scientist,Lawyer,Salesperson,Manager}
+@attribute 'Sleep Duration' numeric
+@attribute 'Quality of Sleep' numeric
+@attribute 'Physical Activity Level' numeric
+@attribute 'Stress Level' numeric
+@attribute 'BMI Category' {Overweight,Normal,Obese,'Normal Weight'}
+@attribute 'Blood Pressure' {126/83,125/80,140/90,120/80,132/87,130/86,117/76,118/76,128/85,131/86,128/84,115/75,135/88,129/84,130/85,115/78,119/77,121/79,125/82,135/90,122/80,142/92,140/95,139/91,118/75}
+@attribute 'Heart Rate' numeric
+@attribute 'Daily Steps' numeric
+@attribute 'Sleep Disorder' {None,'Sleep Apnea',Insomnia}
+
+@DATA
+Female,30,Nurse,6.4,5,35,7,'Normal Weight',130/86,78,4100,?
+%
+%
+%
+
