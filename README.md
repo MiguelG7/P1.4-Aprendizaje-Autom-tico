@@ -5,6 +5,23 @@
 Programa de predicción de tipo de sueño respaldado por el algoritmo de Weka "J48".
 Predicciones basadas en la siguiente base de datos: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
+- BMI Category = Overweight
+  - Physical Activity Level ≤ 65
+    - Age ≤ 42
+      - Stress Level ≤ 6: None
+      - Stress Level > 6
+        - Gender = Male: Insomnia
+        - Gender = Female: Sleep Apnea
+    - Age > 42: Insomnia
+  - Physical Activity Level > 65: Sleep Apnea
+- BMI Category = Normal: None
+- BMI Category = Obese
+  - Heart Rate ≤ 83: Insomnia
+  - Heart Rate > 83: Sleep Apnea
+- BMI Category = Normal Weight
+  - Quality of Sleep ≤ 5: Sleep Apnea
+  - Quality of Sleep > 5: None
+
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
