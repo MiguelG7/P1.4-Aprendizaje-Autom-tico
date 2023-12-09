@@ -5,7 +5,7 @@
 Programa de predicción de tipo de sueño respaldado por el algoritmo de Weka "J48".
 Predicciones basadas en la siguiente base de datos: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
-![Árbol de probabilidad](https://ibb.co/CKY0kB6)
+![Árbol de probabilidad](https://i.ibb.co/VYzB7Vx/imagen-2023-12-09-120458537.png)
 
 ## Tabla de Contenidos
 
