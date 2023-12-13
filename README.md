@@ -1,7 +1,5 @@
 # P1.4-Aprendizaje-Autom-tico
 
-[README.md en elaboración, disculpe las molestias...]
-
 Programa de predicción de tipo de sueño respaldado por el algoritmo de Weka "J48".
 Predicciones basadas en la siguiente base de datos: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
