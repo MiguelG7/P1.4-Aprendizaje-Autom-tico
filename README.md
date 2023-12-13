@@ -3,9 +3,6 @@
 Programa de predicción de tipo de sueño respaldado por el algoritmo de Weka "J48".
 Predicciones basadas en la siguiente base de datos: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
-Mediante Weka GUI hemos generado el árbol de probabilidad ignorando la columna "person ID" ya que no aporta información útil para el cálculo.
-![Árbol de probabilidad](https://i.ibb.co/VYzB7Vx/imagen-2023-12-09-120458537.png)
-
 El modelo ha sido entrenado con la siguiente distribución de resultados:
 
 ![](https://i.ibb.co/7jPc9gw/imagen-2023-12-13-213750217.png)
