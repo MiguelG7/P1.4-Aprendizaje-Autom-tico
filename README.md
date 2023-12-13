@@ -8,14 +8,7 @@ Mediante Weka GUI hemos generado el árbol de probabilidad ignorando la columna 
 
 El modelo ha sido entrenado con la siguiente distribución de resultados:
 
-casos totales: 371
-
-76 casos de "insomnia"(20,48%)
-
-218 casos de "none"(58,76%)
-
-77 casos de "sleep apnea"(20,75%)
-
+![](https://i.ibb.co/7jPc9gw/imagen-2023-12-13-213750217.png)
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
