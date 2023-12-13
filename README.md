@@ -9,6 +9,8 @@ Mediante Weka GUI hemos generado el árbol de probabilidad ignorando la columna 
 El modelo ha sido entrenado con la siguiente distribución de resultados:
 
 ![](https://i.ibb.co/7jPc9gw/imagen-2023-12-13-213750217.png)
+
+![](https://i.ibb.co/rcGcxf0/image.png)
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
