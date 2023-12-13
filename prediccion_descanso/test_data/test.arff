@@ -15,7 +15,7 @@
 @attribute 'Sleep Disorder' {None,'Sleep Apnea',Insomnia}
 
 @DATA
-Female,30,Nurse,6.4,5,35,7,'Normal Weight',130/86,78,4100,?
+Female,57,Nurse,8.1,9,75,3,Overweight,140/95,68,7000,?
 %
 %
 %
