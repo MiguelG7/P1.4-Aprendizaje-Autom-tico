@@ -6,6 +6,13 @@ Predicciones basadas en la siguiente base de datos: https://www.kaggle.com/datas
 Mediante Weka GUI hemos generado el árbol de probabilidad ignorando la columna "person ID" ya que no aporta información útil para el cálculo.
 ![Árbol de probabilidad](https://i.ibb.co/VYzB7Vx/imagen-2023-12-09-120458537.png)
 
+El modelo ha sido entrenado con la siguiente distribución de resultados:
+
+casos totales: 371
+76 casos de "insomnia"(20,48%)
+218 casos de "none"(58,76%)
+77 casos de "sleep apnea"(20,75%)
+
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
