@@ -12,7 +12,6 @@ El modelo ha sido entrenado con la siguiente distribución de resultados:
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Instalación
@@ -35,9 +34,6 @@ La predicción impresa dependerá del lugar de colocación del signo "?" en el a
 Female,30,Nurse,6.4,5,35,7,'Normal Weight',130/86,78,4100,?
 ```
 Conviene recordar que el algoritmo J48 está diseñado para elegir entre opciones y no dar un valor específico como puede ser un "float" o un "int",entre otros.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 Miguel Gamboa Sánchez
