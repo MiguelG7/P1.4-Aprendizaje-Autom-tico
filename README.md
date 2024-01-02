@@ -8,6 +8,22 @@ El modelo ha sido entrenado con la siguiente distribución de resultados:
 ![](https://i.ibb.co/7jPc9gw/imagen-2023-12-13-213750217.png)
 
 ![](https://i.ibb.co/rcGcxf0/image.png)
+
+Resultados mediante otros algoritmos (descartados por una menor precisión de predicción):
+
+Clasificador de redes bayesianas, también conocido como clasificador BayesNet
+
+![](https://i.ibb.co/PMyPySv/imagen-2024-01-02-112746895.png)
+
+
+Clasificador LWL, que significa "Locally Weighted Learning" (Aprendizaje Ponderado Localmente)
+
+![](https://i.ibb.co/hXLb708/imagen-2024-01-02-113022628.png)
+
+Clasificador HoeffdingTree, también conocido como Very Fast Decision Tree (VFDT)
+
+![](https://i.ibb.co/6JT6gys/imagen-2024-01-02-113236500.png)
+
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
