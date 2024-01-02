@@ -55,6 +55,7 @@ Conviene recordar que el algoritmo J48 está diseñado para elegir entre opcione
 ## Licencia
 
 Los derechos del código no me pertenecen ya que fue proporcinado por el profesor y la base de datos es de dominio público.
+
 [Licencia base de datos](https://creativecommons.org/publicdomain/zero/1.0/) (link extraído de su página de descarga citada anteriormente).
 
 ## Contacto
