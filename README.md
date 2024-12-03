@@ -35,7 +35,7 @@ Clasificador HoeffdingTree, también conocido como Very Fast Decision Tree (VFDT
 
 Clone el repositorio en su área de trabajo mediante el siguiente comando:
 ```bash
-git clone https://github.com/MiguelG7/P1.4-Aprendizaje-Autom-tico.git
+git clone https://github.com/MiguelG7/SleepScopeJ48.git
 ```
 ## Uso
 
